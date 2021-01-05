@@ -1,0 +1,119 @@
+
+'''
+  
+ 
+ 'AR_Kra Daadi',
+ 'AR_Lepa Rada',
+ 'AR_Lower Siang',
+ 'AR_Pakke Kessang',
+
+
+ 'JK_Mirpur',
+ 'JK_Muzaffarabad',
+ 
+ 'CT_Uttar Bastar Kanker',
+ 'DL_Shahdara',
+ 'DL_South East Delhi',
+ 'TN_Mayiladuthurai',
+ 'MZ_Hnahthial',
+ 'MZ_Khawzawl',
+ 'MZ_Saitual',
+  'NL_Noklak',
+ 'MP_Agar Malwa',
+ 'MN_Kakching',
+ 'MN_Kangpokpi',
+ 'MN_Noney',
+ 'MN_Tengnoupal',
+
+
+#demo
+ 'PB_Fazilka[15]':'PB_Fazilka',
+
+
+ :'KA_Vijayanagara',
+
+
+
+
+
+ 'AN_Unknown',
+ 'AP_Foreign Evacuees',
+ 
+ 'AP_Other State',
+  'AP_Unknown',
+
+ 'AR_Unknown',
+ 'AS_Airport Quarantine',
+  'AS_Hojai',
+ 'AS_Other State',
+  'AS_Unknown',
+ 'BR_Unknown',
+ 'CH_Unknown',
+  'CT_Kanker',
+ 'CT_Other State',
+ 'CT_Unknown',
+
+ 'DL_Unknown',
+ 'DN_Other State',
+ 'DN_Unknown',
+ 'GA_Other State',
+ 'GA_Unknown',
+  'GJ_Other State',
+ 'GJ_Unknown',
+ 'HP_Unknown',
+ 'HR_Italians',
+ 'HR_Unknown',
+ 'JH_Unknown',
+ 'JK_Unknown',
+
+ 'KA_Other State',
+
+ 'KA_Unknown',
+ 'KL_Other State',
+ 'KL_Unknown',
+ 'LA_Unknown',
+ 'LD_Unknown',
+ 'MH_Other State',
+ 'MH_Unknown',
+ 'ML_Unknown',
+ 'MN_CAPF Personnel',
+ 'MN_Unknown',
+ 'MP_Other Region',
+ 'MP_Unknown',
+ 'HR_Foreign Evacuees',
+ 'MZ_Unknown',
+
+ 'NL_Others',
+ 'NL_Unknown',
+ 'OR_Others',
+ 'OR_State Pool',
+ 'OR_Unknown',
+ 'PB_Unknown',
+
+ 'PY_Unknown',
+ 'RJ_BSF Camp',
+ 'RJ_Evacuees',
+ 'RJ_Italians',
+ 'RJ_Other State',
+ 'RJ_Unknown',
+ 'SK_Unknown',
+ 'TG_Foreign Evacuees',
+ 'TG_Other State',
+ 'TG_Unknown',
+ 'TN_Airport Quarantine',
+
+ 'TN_Other State',
+ 'TN_Railway Quarantine',
+ 'TN_Unknown',
+ 'TR_Unknown',
+ 'UN_Unassigned',
+
+ 'UP_Unknown',
+ 'UT_Unknown',
+ 'WB_Other State',
+ 'WB_Unknown'}
+
+
+
+'''
+rithm and for prioriization of clustered groups can i use my own metric?

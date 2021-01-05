@@ -1,0 +1,813 @@
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AN,Anantapur,Anantapur,"4,083,315","19,130",213
+2,CH,Chittoor,Chittoor,"4,170,468","15,152",275
+3,EG,East Godavari,Kakinada,"5,151,549","10,807",477
+4,GU,Guntur,Guntur,"4,889,230","11,391",429
+5,CU,Kadapa,Kadapa,"2,884,524","15,359",188
+6,KR,Krishna,Machilipatnam,"4,529,009","8,727",519
+7,KU,Kurnool,Kurnool,"4,046,601","17,658",229
+8,PR,Prakasam,Ongole,"3,392,764","17,626",192
+9,NE,Sri Potti Sriramulu Nellore,Nellore,"2,966,082","13,076",227
+10,SR,Srikakulam,Srikakulam,"2,699,471","5,837",462
+11,VS,Visakhapatnam,Visakhapatnam,"4,288,113","11,161",384
+12,VZ,Vizianagaram,Vizianagaram,"2,342,868","6,539",358
+13,WG,West Godavari,Eluru,"3,934,782","7,742",490
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AJ,Anjaw,Hawai,"21,089","6,190",3
+2,CH,Changlang,Changlang,"147,951","4,662",32
+3,EK,East Kameng,Seppa,"78,413","4,134",19
+4,ES,East Siang,Pasighat,"99,019","3,603",27
+5,–  [Note 1],Kamle,Raga,"22,256",200,111
+6,–  [Note 2],Kra Daadi,Jamin,–,–,–
+7,KK,Kurung Kumey,Koloriang,"89,717","6,040",15
+8,–  [Note 3],Lepa Rada,Basar,–,–,–
+9,EL,Lohit,Tezu,"145,538","2,402",61
+10,LD,Longding,Longding,"60,000","1,200",50
+11,DV,Lower Dibang Valley,Roing,"53,986","3,900",14
+12,–  [Note 4],Lower Siang,Likabali,–,–,–
+13,LB,Lower Subansiri,Ziro,"82,839","3,508",24
+14,–  [Note 5],Namsai,Namsai,"95,950","1,587",60
+15,–  [Note 6],Pakke-Kessang,Lemmi,–,–,–
+16,PA,Papum Pare,Yupia,"176,385","2,875",61
+17,–  [Note 7],Shi Yomi,Tato,"13,310","2,875",5
+18,–  [Note 8],Siang,Pangin,"31,920","2,919",11
+19,TA,Tawang,Tawang Town,"49,950","2,085",24
+20,TI,Tirap,Khonsa,"111,997","2,362",47
+21,UD,Upper Dibang Valley,Anini,"7,948","9,129",1
+22,US,Upper Siang,Yingkiong,"35,289","6,188",6
+23,UB,Upper Subansiri,Daporijo,"83,205","7,032",12
+24,WK,West Kameng,Bomdila,"87,013","7,422",12
+25,WS,West Siang,Along,"112,272","8,325",13
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,BK,Baksa,Mushalpur,"953,773","2,008",475
+2,-,Bajali,Pathsala,-,-,–
+3,BP,Barpeta,Barpeta,"1,693,190","3,245",522
+4,BS,Bishwanath,Bishwanath Chariali,"612,491 [Note 1]","1,100",560
+5,BO,Bongaigaon,Bongaigaon,"732,639","1,724",425
+6,CA,Cachar,Silchar,"1,736,319","3,786",459
+7,CD,Charaideo,Sonari,"471,418 [Note 2]","1,069",440
+8,CH,Chirang,Kajalgaon,"481,818","1,975",244
+9,DR,Darrang,Mangaldoi,"908,090","1,849",491
+10,DM,Dhemaji,Dhemaji,"688,077","3,237",213
+11,DU,Dhubri,Dhubri,"1,948,632","2,838",687
+12,DI,Dibrugarh,Dibrugarh,"1,327,748","3,381",393
+13,NC,Dima Hasao,Haflong,"213,529","4,888",44
+14,GP,Goalpara,Goalpara,"1,008,959","1,824",553
+15,GG,Golaghat,Golaghat,"1,058,674","3,502",302
+16,HA,Hailakandi,Hailakandi,"659,260","1,327",497
+17,HJ,Hojai,Hojai,"931,218 [Note 3]",–,–
+18,JO,Jorhat,Jorhat,"1,091,295","2,851",383
+19,KU,Kamrup,Amingaon,"1,517,202","3,480",436
+20,KM,Kamrup Metropolitan,Guwahati,"1,260,419",627,"2,010"
+21,KG,Karbi Anglong,Diphu,"965,280","10,434",93
+22,KR,Karimganj,Karimganj,"1,217,002","1,809",673
+23,KJ,Kokrajhar,Kokrajhar,"886,999","3,129",283
+24,LA,Lakhimpur,North Lakhimpur,"1,040,644","2,277",457
+25,MJ,Majuli,Garamur,"167,304 [Note 4]",880,300
+26,MA,Morigaon,Marigaon,"957,853","1,704",562
+27,NN,Nagaon,Nagaon,"2,826,006","3,831",738
+28,NB,Nalbari,Nalbari,"769,919","1,009",763
+29,ST,Sivasagar,Sibsagar,"1,150,253","2,668",431
+30,SM,South Salmara,Hatsingimari,"555,114 [Note 5]",568,980
+31,SO,Sonitpur,Tezpur,"1,925,975","5,324",362
+32,TI,Tinsukia,Tinsukia,"1,316,948","3,790",347
+33,UD,Udalguri,Udalguri,"832,769","1,676",497
+34,WK,West Karbi Anglong,Hamren,"300,320 [Note 6]","3,035",99
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AR,Araria,Araria,"2,806,200","2,829",992
+2,AR,Arwal,Arwal,"700,843",638,"1,098"
+3,AU,Aurangabad,Aurangabad,"2,511,243","3,303",760
+4,BA,Banka,Banka,"2,029,339","3,018",672
+5,BE,Begusarai,Begusarai,"2,954,367","1,917","1,540"
+6,BG,Bhagalpur,Bhagalpur,"3,032,226","2,569","1,180"
+7,BJ,Bhojpur,Arrah,"2,720,155","2,473","1,136"
+8,BU,Buxar,Buxar,"1,707,643","1,624","1,003"
+9,DA,Darbhanga,Darbhanga,"3,921,971","2,278","1,721"
+10,EC,East Champaran,Motihari,"5,082,868","3,969","1,281"
+11,GA,Gaya,Gaya,"4,379,383","4,978",880
+12,GO,Gopalganj,Gopalganj,"2,558,037","2,033","1,258"
+13,JA,Jamui,Jamui,"1,756,078","3,099",567
+14,JE,Jehanabad,Jehanabad,"1,124,176","1,569","1,206"
+15,KM,Kaimur,Bhabua,"1,626,900","3,363",488
+16,KT,Katihar,Katihar,"3,068,149","3,056","1,004"
+17,KH,Khagaria,Khagaria,"1,657,599","1,486","1,115"
+18,KI,Kishanganj,Kishanganj,"1,690,948","1,884",898
+19,LA,Lakhisarai,Lakhisarai,"1,000,717","1,229",815
+20,MP,Madhepura,Madhepura,"1,994,618","1,787","1,116"
+21,MB,Madhubani,Madhubani,"4,476,044","3,501","1,279"
+22,MG,Munger,Munger,"1,359,054","1,419",958
+23,MZ,Muzaffarpur,Muzaffarpur,"4,778,610","3,173","1,506"
+24,NL,Nalanda,Bihar Sharif,"2,872,523","2,354","1,220"
+25,NW,Nawada,Nawada,"2,216,653","2,492",889
+26,PA,Patna,Patna,"5,772,804","3,202","1,803"
+27,PU,Purnia,Purnia,"3,273,127","3,228","1,014"
+28,RO,Rohtas,Sasaram,"2,962,593","3,850",763
+29,SH,Saharsa,Saharsa,"1,897,102","1,702","1,125"
+30,SM,Samastipur,Samastipur,"4,254,782","2,905","1,465"
+31,SR,Saran,Chhapra,"3,943,098","2,641","1,493"
+32,SP,Sheikhpura,Sheikhpura,"634,927",689,922
+33,SO,Sheohar,Sheohar,"656,916",443,"1,882"
+34,ST,Sitamarhi,Sitamarhi,"3,419,622","2,199","1,491"
+35,SW,Siwan,Siwan,"3,318,176","2,219","1,495"
+36,SU,Supaul,Supaul,"2,228,397","2,410",919
+37,VA,Vaishali,Hajipur,"3,495,021","2,036","1,717"
+38,WC,West Champaran,Bettiah,"3,935,042","5,229",753
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,–,Balod,Balod,"826,165","3,527",234
+2,–,Baloda Bazar,Baloda Bazar,"1,305,343","4,748",275
+3,–,Balrampur,Balrampur,"598,855","3,806",157
+4,BA,Bastar,Jagdalpur,"1,302,253","4,030",87
+5,–,Bemetara,Bemetara,"197,035","2,855",69
+6,BJ,Bijapur,Bijapur,"229,832","6,562",35
+7,BI,Bilaspur,Bilaspur,"1,961,922","5,818",337
+8,DA,Dantewada,Dantewada,"533,638","3,411",59
+9,DH,Dhamtari,Dhamtari,"799,199","2,029",394
+10,DU,Durg,Durg,"3,343,079","8,542",391
+11,–,Gariaband,Gariaband,"597,653","5,823",103
+12,–,Gaurella-Pendra-Marwahi,Gaurella,"336,420","2,307",166
+13,JC,Janjgir-Champa,Naila Janjgir,"1,620,632","3,848",421
+14,JA,Jashpur,Jashpur Nagar,"852,043","5,825",146
+15,KW,Kabirdham,Kawardha,"584,667","4,237",195
+16,KK,Kanker,Kanker,"748,593","6,513",115
+17,–,Kondagaon,Kondagaon,"578,326",7769,74
+18,KB,Korba,Korba,"1,206,563","6,615",183
+19,KJ,Koriya,Baikunthpur,"659,039","6,578",100
+20,MA,Mahasamund,Mahasamund,"1,032,275","4,779",216
+21,–,Mungeli,Mungeli,"701,707","2,750",255
+22,NR,Narayanpur,Narayanpur,"140,206","6,640",20
+23,RG,Raigarh,Raigarh,"1,493,627","7,068",211
+24,RP,Raipur,Raipur,"4,062,160","13,083",310
+25,RN,Rajnandgaon,Rajnandgaon,"1,537,520","8,062",191
+26,SK,Sukma,Sukma,"249,000","5,636",49
+27,SJ,Surajpur,Surajpur,"660,280","6,787",150
+28,SJ,Surguja,Ambikapur,"420,661","3,265",150
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,NG,North Goa,Panaji,"817,761","1,736",471
+2,SG,South Goa,Margao,"639,962","1,966",326
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AH,Ahmedabad,Ahmedabad,"7,208,200","8,707",890
+2,AM,Amreli,Amreli,"1,513,614","6,760",205
+3,AN,Anand,Anand,"2,090,276","2,942",711
+4,AR,Aravalli,Modasa,"1,051,746","3,217",327
+5,BK,Banaskantha,Palanpur,"3,116,045","12,703",290
+6,BR,Bharuch,Bharuch,"1,550,822","6,524",238
+7,BV,Bhavnagar,Bhavnagar,"2,877,961","11,155",288
+8,BT,Botad,Botad,"656,005","2,564",256
+9,CU,Chhota Udepur,Chhota Udepur,"1,071,831","3,237",331
+10,DA,Dahod,Dahod,"2,126,558","3,642",582
+11,DG,Dang,Ahwa,"226,769","1,764",129
+12,DD,Devbhoomi Dwarka,Khambhalia,"752,484","5,684",132
+13,GA,Gandhinagar,Gandhinagar,"1,387,478",649,660
+14,GS,Gir Somnath,Veraval,"1,217,477","3,754",324
+15,JA,Jamnagar,Jamnagar,"2,159,130","14,125",153
+16,JU,Junagadh,Junagadh,"2,742,291","8,839",310
+17,KH,Kheda,Nadiad,"2,298,934","4,215",541
+18,KA,Kutch,Bhuj,"2,090,313","45,652",46
+19,MH,Mahisagar,Lunavada,"994,624","2,500",398
+20,MA,Mehsana,Mehsana,"2,027,727","4,386",462
+21,MB,Morbi,Morbi,"960,329","4,871",197
+22,NR,Narmada,Rajpipla,"590,379","2,749",214
+23,NV,Navsari,Navsari,"1,330,711","2,211",602
+24,PM,Panchmahal,Godhra,"2,388,267","5,219",458
+25,PA,Patan,Patan,"1,342,746","5,738",234
+26,PO,Porbandar,Porbandar,"586,062","2,294",255
+27,RA,Rajkot,Rajkot,"3,157,676","11,203",282
+28,SK,Sabarkantha,Himatnagar,"2,427,346","7,390",328
+29,ST,Surat,Surat,"6,081,322","4,418",953
+30,SN,Surendranagar,Surendranagar,"1,755,873","10,489",167
+31,TA,Tapi,Vyara,"806,489","3,435",249
+32,VD,Vadodara,Vadodara,"3,639,775","7,794",467
+33,VL,Valsad,Valsad,"1,703,068","3,034",561
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AM,Ambala,Ambala,"1,136,784","1,569",722
+2,BH,Bhiwani,Bhiwani,"1,629,109","5,140",341
+3,CD,Charkhi Dadri,Charkhi Dadri,"502,276",1370,367
+4,FR,Faridabad,Faridabad,"1,798,954",783,"2,298"
+5,FT,Fatehabad,Fatehabad,"941,522","2,538",371
+6,GU,Gurgaon,Gurgaon,"1,514,085","1,258","1,241"
+7,HI,Hissar,Hissar,"1,742,815","3,788",438
+8,JH,Jhajjar,Jhajjar,"956,907","1,868",522
+9,JI,Jind,Jind,"1,332,042","2,702",493
+10,KT,Kaithal,Kaithal,"1,072,861","2,799",467
+11,KR,Karnal,Karnal,"1,506,323","2,471",598
+12,KU,Kurukshetra,Kurukshetra,"964,231","1,530",630
+13,MA,Mahendragarh,Narnaul,"921,680","1,900",485
+14,MW,Nuh,Nuh,"1,089,406","1,765",729
+15,PW,Palwal,Palwal,"1,040,493","1,367",761
+16,PK,Panchkula,Panchkula,"558,890",816,622
+17,PP,Panipat,Panipat,"1,202,811","1,250",949
+18,RE,Rewari,Rewari,"896,129","1,559",562
+19,RO,Rohtak,Rohtak,"1,058,683","1,668",607
+20,SI,Sirsa,Sirsa,"1,295,114","4,276",303
+21,SNP,Sonipat,Sonipat,"1,480,080","2,260",697
+22,YN,Yamuna Nagar,Yamuna Nagar,"1,214,162","1,756",687
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,BI,Bilaspur,Bilaspur,"382,056","1,167",327
+2,CH,Chamba,Chamba,"518,844","6,528",80
+3,HA,Hamirpur,Hamirpur,"454,293","1,118",406
+4,KA,Kangra,Dharamshala,"1,507,223","5,739",263
+5,KI,Kinnaur,Reckong Peo,"84,298","6,401",13
+6,KU,Kullu,Kullu,"437,474","5,503",79
+7,LS,Lahaul and Spiti,Keylong,"31,528","13,835",2
+8,MA,Mandi,Mandi,"999,518","3,950",253
+9,SH,Shimla,Shimla,"813,384","5,131",159
+10,SI,Sirmaur,Nahan,"530,164","2,825",188
+11,SO,Solan,Solan,"576,670","1,936",298
+12,UN,Una,Una,"521,057","1,540",328
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,BO,Bokaro,Bokaro,"2,061,918","2,861",716
+2,CH,Chatra,Chatra,"1,042,304","3,700",275
+3,DE,Deoghar,Deoghar,"1,491,879","2,479",602
+4,DH,Dhanbad,Dhanbad,"2,682,662","2,075","1,284"
+5,DU,Dumka,Dumka,"1,321,096","4,404",300
+6,ES,East Singhbhum,Jamshedpur,"2,291,032","3,533",648
+7,GA,Garhwa,Garhwa,"1,322,387","4,064",327
+8,GI,Giridih,Giridih,"2,445,203","4,887",497
+9,GO,Godda,Godda,"1,311,382","2,110",622
+10,GU,Gumla,Gumla,"1,025,656",5327,193
+11,HA,Hazaribag,Hazaribag,"1,734,005","4,302",403
+12,JA,Jamtara,Jamtara,"790,207","1,802",439
+13,KH,Khunti,Khunti,"530,299","2,467",215
+14,KO,Koderma,Koderma,"717,169","1,312",427
+15,LA,Latehar,Latehar,"725,673","3,630",200
+16,LO,Lohardaga,Lohardaga,"461,738","1,494",310
+17,PK,Pakur,Pakur,"899,200","1,805",498
+18,PL,Palamu,Daltonganj,"1,936,319","5,082",381
+19,RM,Ramgarh,Ramgarh,"949,159","1,212",684
+20,RA,Ranchi,Ranchi,"2,912,022","7,974",557
+21,SA,Sahibganj,Sahebganj,"1,150,038","1,599",719
+22,SK,Seraikela Kharsawan,Seraikela,"1,063,458","2,725",390
+23,SI,Simdega,Simdega,"599,813","3,750",160
+24,WS,West Singhbhum,Chaibasa,"1,501,619","7,186",209
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,BK,Bagalkot,Bagalkot,"1,890,826","6,583",288
+2,BL,Ballari,Ballari,"2,532,383","8,439",300
+3,BG,Belgaum,Belgaum,"4,778,439","13,415",356
+4,BR,Bangalore Rural,Bangalore,"987,257","2,239",441
+5,BN,Bangalore Urban,Bangalore,"9,588,910","2,190","4,378"
+6,BD,Bidar,Bidar,"1,700,018","5,448",312
+7,BJ,Bijapur,Bijapur,"2,175,102","10,517",207
+8,CJ,Chamarajanagara,Chamarajanagara,"1,020,962","5,102",200
+9,CK,Chikkaballapura,Chikkaballapura,"1,254,377","4,208",298
+10,CK,Chikmagalur,Chikmagalur,"1,137,753","7,201",158
+11,CT,Chitradurga,Chitradurga,"1,660,378","8,437",197
+12,DK,Dakshina Kannada,Mangaluru,"2,083,625","4,559",457
+13,DA,Davanagere,Davangere,"1,946,905","5,926",329
+14,DH,Dharwad,Dharwad,"1,846,993","4,265",434
+15,GA,Gadag,Gadag-Betageri,"1,065,235","4,651",229
+16,GU,Gulbarga,Gulbarga,"2,564,892","10,990",233
+17,HS,Hassan,Hassan,"1,776,221","6,814",261
+18,HV,Haveri,Haveri,"1,598,506","4,825",331
+19,KD,Kodagu,Madikeri,"554,762","4,102",135
+20,KL,Kolar,Kolar,"1,540,231","4,012",384
+21,KP,Koppal,Koppal,"1,391,292","5,565",250
+22,MA,Mandya,Mandya,"1,808,680","4,961",365
+23,MY,Mysore,Mysore,"2,994,744","6,854",437
+24,RA,Raichur,Raichur,"1,924,773","6,839",228
+25,RM,Ramanagara,Ramanagara,"1,082,739","3,573",303
+26,SH,Shimoga,Shimoga,"1,755,512","8,495",207
+27,TU,Tumakuru,Tumakuru,"2,681,449","10,598",253
+28,UD,Udupi,Udupi,"1,177,908","3,879",304
+29,UK,Uttara Kannada,Karwar,"1,353,299","10,291",132
+30,,Vijayanagara,Hospete,"1,353,628","5,644",240
+31,YG,Yadgir,Yadgir,"1,172,985","5,225",224
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²)[14],Density (/km²)[6]
+1,AL,Alappuzha,Alappuzha,"2,121,943","1,415","1,501"
+2,ER,Ernakulam,Kakkanad,"3,279,860","3,063","1,069"
+3,ID,Idukki,Painavu,"1,107,453","4,356",254
+4,KN,Kannur,Kannur,"2,525,637","2,961",852
+5,KS,Kasaragod,Kasaragod,"1,302,600","1,989",654
+6,KL,Kollam,Kollam,"2,629,703","2,483","1,056"
+7,KT,Kottayam,Kottayam,"1,979,384","2,206",896
+8,KZ,Kozhikode,Kozhikode,"3,089,543","2,345","1,318"
+9,MA,Malappuram,Malappuram,"4,110,956","3,554","1,058"
+10,PL,Palakkad,Palakkad,"2,810,892","4,482",627
+11,PT,Pathanamthitta,Pathanamthitta,"1,195,537","2,652",453
+12,TS,Thrissur,Thrissur,"3,110,327","3,027","1,026"
+13,TV,Thiruvananthapuram,Thiruvananthapuram,"3,307,284","2,189","1,509"
+14,WA,Wayanad,Kalpetta,"816,558","2,130",383
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AG,Agar Malwa,Agar,–,"2,785",–
+2,AL,Alirajpur,Alirajpur,"728,677","3,182",229
+3,AP,Anuppur,Anuppur,"749,521","3,747",200
+4,AS,Ashok Nagar,Ashok Nagar,"844,979","4,674",181
+5,BL,Balaghat,Balaghat,"1,701,156","9,229",184
+6,BR,Barwani,Barwani,"1,385,659","5,432",256
+7,BE,Betul,Betul,"1,575,247","10,043",157
+8,BD,Bhind,Bhind,"1,703,562","4,459",382
+9,BP,Bhopal,Bhopal,"2,368,145","2,772",854
+10,BU,Burhanpur,Burhanpur,"756,993","3,427",221
+11,–,Chachaura-Binaganj,Chachaura,–,–,–
+12,CT,Chhatarpur,Chhatarpur,"1,762,857","8,687",203
+13,CN,Chhindwara,Chhindwara,"2,090,306","11,815",177
+14,DM,Damoh,Damoh,"1,263,703","7,306",173
+15,DT,Datia,Datia,"786,375","2,694",292
+16,DE,Dewas,Dewas,"1,563,107","7,020",223
+17,DH,Dhar,Dhar,"2,184,672","8,153",268
+18,DI,Dindori,Dindori,"704,218","7,427",94
+19,GU,Guna,Guna,"1,240,938","6,485",194
+20,GW,Gwalior,Gwalior,"2,030,543","5,465",445
+21,HA,Harda,Harda,"570,302","3,339",171
+22,HO,Hoshangabad,Hoshangabad,"1,240,975","6,698",185
+23,IN,Indore,Indore,"3,272,335","3,898",839
+24,JA,Jabalpur,Jabalpur,"2,460,714","5,210",472
+25,JH,Jhabua,Jhabua,"1,024,091","6,782",285
+26,KA,Katni,Katni,"1,291,684","4,947",261
+27,EN,Khandwa (East Nimar),Khandwa,"1,309,443","7,349",178
+28,WN,Khargone (West Nimar),Khargone,"1,872,413","8,010",233
+29,–,Maihar,Maihar,–,–,–
+30,ML,Mandla,Mandla,"1,053,522","5,805",182
+31,MS,Mandsaur,Mandsaur,"1,339,832","5,530",242
+32,MO,Morena,Morena,"1,965,137","4,991",394
+33,NA,Narsinghpur,Narsinghpur,"1,092,141","5,133",213
+34,–,Nagda,Nagda,–,–,–
+35,NE,Neemuch,Neemuch,"825,958","4,267",194
+36,–,Niwari,Niwari,"404,807",1170,345
+37,PA,Panna,Panna,"1,016,028","7,135",142
+38,RS,Raisen,Raisen,"1,331,699","8,466",157
+39,RG,Rajgarh,Rajgarh,"1,546,541","6,143",251
+40,RL,Ratlam,Ratlam,"1,454,483","4,861",299
+41,RE,Rewa,Rewa,"2,363,744","6,314",374
+42,SG,Sagar,Sagar,"2,378,295","10,252",272
+43,ST,Satna,Satna,"2,228,619","7,502",297
+44,SR,Sehore,Sehore,"1,311,008","6,578",199
+45,SO,Seoni,Seoni,"1,378,876","8,758",157
+46,SH,Shahdol,Shahdol,"1,064,989","6,205",172
+47,SJ,Shajapur,Shajapur,"1,512,353","6,196",244
+48,SP,Sheopur,Sheopur,"687,952","6,585",104
+49,SV,Shivpuri,Shivpuri,"1,725,818","10,290",168
+50,SI,Sidhi,Sidhi,"1,126,515","10,520",232
+51,SN,Singrauli,Waidhan,"1,178,132","5,672",208
+52,TI,Tikamgarh,Tikamgarh,"1,444,920","5,055",286
+53,UJ,Ujjain,Ujjain,"1,986,864","6,091",356
+54,UM,Umaria,Umaria,"643,579","4,062",158
+55,VI,Vidisha,Vidisha,"1,458,212","7,362",198
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AH,Ahmednagar,Ahmednagar,"4,543,083","17,048",266
+2,AK,Akola,Akola,"1,818,617","5,429",321
+3,AM,Amravati,Amravati,"2,887,826","12,235",237
+4,AU,Aurangabad,Aurangabad,"3,695,928","10,107",365
+5,BI,Beed,Beed,"2,585,962","10,693",242
+6,BH,Bhandara,Bhandara,"1,198,810","3,890",293
+7,BU,Buldhana,Buldhana,"2,588,039","9,661",268
+8,CH,Chandrapur,Chandrapur,"2,194,262","11,443",192
+9,DH,Dhule,Dhule,"2,048,781","8,095",285
+10,GA,Gadchiroli,Gadchiroli,"1,071,795","14,412",74
+11,GO,Gondia,Gondia,"1,322,331","5,431",253
+12,HI,Hingoli,Hingoli,"1,178,973","4,526",244
+13,JG,Jalgaon,Jalgaon,"4,224,442","11,765",359
+14,JN,Jalna,Jalna,"1,958,483","7,718",255
+15,KO,Kolhapur,Kolhapur,"3,874,015","7,685",504
+16,LA,Latur,Latur,"2,455,543","7,157",343
+17,MC,Mumbai City,Mumbai,"3,145,966",69,"45,594"
+18,MU,Mumbai suburban,Bandra (East),"9,332,481",369,"20,925"
+19,ND,Nanded,Nanded,"3,356,566","10,528",319
+20,NB,Nandurbar,Nandurbar,"1,646,177","5,055",276
+21,NG,Nagpur,Nagpur,"4,653,171","9,892",470
+22,NS,Nashik,Nashik,"6,109,052","15,539",393
+23,OS,Osmanabad,Osmanabad,"1,660,311","7,569",219
+24,PL,Palghar,Palghar,"2,990,116","5,344",560
+25,PA,Parbhani,Parbhani,"1,835,982","6,511",295
+26,PU,Pune,Pune,"9,426,959","15,643",603
+27,RG,Raigad,Alibag,"2,635,394","7,152",368
+28,RT,Ratnagiri,Ratnagiri,"1,612,672","8,208",196
+29,SN,Sangli,Sangli,"2,820,575","8,572",329
+30,ST,Satara,Satara,"3,003,922","10,475",287
+31,SI,Sindhudurg,Oros,"848,868","5,207",163
+32,SO,Solapur,Solapur,"4,315,527","14,895",290
+33,TH,Thane,Thane,"11,060,148","4,214","1,157"
+34,WR,Wardha,Wardha,"1,296,157","6,309",205
+35,WS,Washim,Washim,"1,196,714","5,155",244
+36,YA,Yavatmal,Yavatmal,"2,775,457","13,582",204
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,BPR,Bishnupur,Bishnupur,"240,363",496,415
+2,CDL,Chandel,Chandel,"144,028","3,317",37
+3,CCpr,Churachandpur,Churachandpur,"271,274","4,574",50
+4,IE,Imphal East,Porompat,"452,661",710,555
+5,IW,Imphal West,Lamphelpat,"514,683",519,847
+6,JBM,Jiribam,Jiribam,"43,818",232,190
+7,KAK,Kakching,Kakching,"135,481",–,–
+8,KJ,Kamjong,Kamjong,"45,616","2,000",23
+9,KPI,Kangpokpi,Kangpokpi,–,–,–
+10,NL,Noney,Noney (Longmai),–,–,–
+11,PZ,Pherzawl,Pherzawl,"47,250","2,285",21
+12,SE,Senapati,Senapati,"354,772","3,269",116
+13,TML,Tamenglong,Tamenglong,"140,143","4,391",25
+14,TNL,Tengnoupal,Tengnoupal,–,–,–
+15,TBL,Thoubal,Thoubal,"420,517",514,713
+16,UKR,Ukhrul,Ukhrul,"183,115","4,547",31
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,EG,East Garo Hills,Williamnagar,"317,618","2,603",121
+2,EK,East Khasi Hills,Shillong,"824,059","2,752",292
+3,–,East Jaintia Hills,Khliehriat,"122,436","2,115",58
+4,–,North Garo Hills,Resubelpara,"118,325","1,113",106
+5,RB,Ri Bhoi,Nongpoh,"258,380","2,378",109
+6,SG,South Garo Hills,Baghmara,"142,574","1,850",77
+7,–,South West Garo Hills,Ampati,"172,495",822,210
+8,–,South West Khasi Hills,Mawkyrwat,"110,152","1,341",82
+9,WG,West Jaintia Hills,Jowai,"270,352","1,693",160
+10,WG,West Garo Hills,Tura,"642,923","3,714",173
+11,WK,West Khasi Hills,Nongstoin,"385,601","5,247",73
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AI,Aizawl,Aizawl,"404,054","3,577",113
+2,CH,Champhai,Champhai,"125,370","3,168",39
+3,-,Hnahthial,Hnahthial,–,–,–
+4,-,Khawzawl,Khawzawl,–,–,–
+5,KO,Kolasib,Kolasib,"83,054","1,386",60
+6,LA,Lawngtlai,Lawngtlai,"117,444","2,519",46
+7,LU,Lunglei,Lunglei,"154,094","4,572",34
+8,MA,Mamit,Mamit,"85,757","2,967",28
+9,SA,Saiha,Saiha,"56,366","1,414",40
+10,-,Saitual,Saitual,–,–,–
+11,SE,Serchhip,Serchhip,"64,875","1,424",46
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,DI,Dimapur,Dimapur,"379,769",926,410
+2,KI,Kiphire,Kiphire,"74,033","1,255",66
+3,KO,Kohima,Kohima,"270,063","1,041",213
+4,LO,Longleng,Longleng,"50,593",885,89
+5,MK,Mokokchung,Mokokchung,"193,171","1,615",120
+6,MN,Mon,Mon,"259,604","1,786",145
+7,–,Noklak,Noklak,"59,300","1,152",51
+8,PE,Peren,Peren,"163,294","2,300",55
+9,PH,Phek,Phek,"163,294","2,026",81
+10,TU,Tuensang,Tuensang,"414,801","4,228",98
+11,WO,Wokha,Wokha,"166,239","1,628",120
+12,ZU,Zunheboto,Zunheboto,"141,014","1,255",112
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AN,Angul,Angul,"1,271,703","6,232",199
+2,BD,Boudh (Bauda),Boudh,"439,917","3,098",142
+3,BH,Bhadrak,Bhadrak,"1,506,522","2,505",601
+4,BL,Balangir,Balangir,"1,648,574","6,575",251
+5,BR,Bargarh (Baragarh),Bargarh,"1,478,833","5,837",253
+6,BW,Balasore,Balasore,"2,317,419","3,634",609
+7,CU,Cuttack,Cuttack,"2,618,708","3,932",666
+8,DE,Debagarh (Deogarh),Debagarh,"312,164","2,781",106
+9,DH,Dhenkanal,Dhenkanal,"1,192,948","4,452",268
+10,GN,Ganjam,Chhatrapur,"3,520,151","8,070.6",429
+11,GP,Gajapati,Paralakhemundi,"575,880","3,850",133
+12,JH,Jharsuguda,Jharsuguda,"579,499","2,081",274
+13,JP,Jajpur,Panikoili,"1,826,275","2,888",630
+14,JS,Jagatsinghpur,Jagatsinghpur,"1,136,604","1,759",681
+15,KH,Khordha,Khordha,"2,246,341","2,887.5",799
+16,KJ,Kendujhar (Keonjhar),Kendujhar,"1,802,777","8,240",217
+17,KL,Kalahandi,Bhawanipatna,"1,573,054","7,920",199
+18,KN,Kandhamal,Phulbani,"731,952","8,021",91
+19,KO,Koraput,Koraput,"1,376,934","8,807",156
+20,KP,Kendrapara,Kendrapara,"1,439,891","2,644",545
+21,ML,Malkangiri,Malkangiri,"612,727","5,791",106
+22,MY,Mayurbhanj,Baripada,"2,513,895","10,418",241
+23,NB,Nabarangpur,Nabarangpur,"1,218,762","5,294",230
+24,NU,Nuapada,Nuapada,"606,490","3,408",157
+25,NY,Nayagarh,Nayagarh,"962,215","3,890",247
+26,PU,Puri,Puri,"1,697,983","3,051",488
+27,RA,Rayagada,Rayagada,"961,959","7,584.7",136
+28,SA,Sambalpur,Sambalpur,"1,044,410","6,702",158
+29,SO,Subarnapur (Sonepur),Subarnapur,"652,107","2,284",279
+30,SU,Sundargarh,Sundargarh,"2,080,664","9,712",214
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AM,Amritsar,Amritsar,"2,490,891","2,673",932
+2,BNL,Barnala,Barnala,"596,294","1,423",419
+3,BA,Bathinda,Bathinda,"1,388,859","3,355",414
+4,FI,Firozpur,Firozpur,"2,026,831","5,334",380
+5,FR,Faridkot,Faridkot,"618,008","1,472",424
+6,FT,Fatehgarh Sahib,Fatehgarh Sahib,"599,814","1,180",508
+7,FA,Fazilka[15],Fazilka,"1,180,483",3113,379
+8,GU,Gurdaspur,Gurdaspur,"2,299,026","3,542",649
+9,HO,Hoshiarpur,Hoshiarpur,"1,582,793","3,397",466
+10,JA,Jalandhar,Jalandhar,"2,181,753","2,625",831
+11,KA,Kapurthala,Kapurthala,"817,668","1,646",501
+12,LU,Ludhiana,Ludhiana,"3,487,882","3,744",975
+13,MA,Mansa,Mansa,"768,808","2,174",350
+14,MO,Moga,Moga,"992,289","2,235",444
+15,MU,Sri Muktsar Sahib,Sri Muktsar Sahib,"902,702","2,596",348
+16,PA,Pathankot,Pathankot,"626,154",929,674
+17,PA,Patiala,Patiala,"2,892,282","3,175",596
+18,RU,Rupnagar,Rupnagar,"683,349","1,400",488
+19,SAS,Sahibzada Ajit Singh Nagar,Mohali,"986,147","1,188",830
+20,SA,Sangrur,Sangrur,"1,654,408","3,685",449
+21,PB,Shahid Bhagat Singh Nagar,Nawanshahr,"614,362","1,283",479
+22,TT,Tarn Taran,Tarn Taran Sahib,"1,120,070","2,414",464
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AJ,Ajmer,Ajmer,"2,584,913","8,481",305
+2,AL,Alwar,Alwar,"3,671,999","8,380",438
+3,BI,Bikaner,Bikaner,"2,367,745","27,244",78
+4,BM,Barmer,Barmer,"2,604,453","28,387",92
+5,BN,Banswara,Banswara,"1,798,194","5,037",399
+6,BP,Bharatpur,Bharatpur,"2,549,121","5,066",503
+7,BR,Baran,Baran,"1,223,921","6,955",175
+8,BU,Bundi,Bundi,"1,113,725","5,550",193
+9,BW,Bhilwara,Bhilwara,"2,410,459","10,455",230
+10,CR,Churu,Churu,"2,041,172","16,830",148
+11,CT,Chittorgarh,Chittorgarh,"1,544,392","10,856",193
+12,DA,Dausa,Dausa,"1,637,226","3,429",476
+13,DH,Dholpur,Dholpur,"1,207,293","3,084",398
+14,DU,Dungarpur,Dungarpur,"1,388,906","3,771",368
+15,GA,Ganganagar,Ganganagar,"1,969,520","10,990",179
+16,HA,Hanumangarh,Hanumangarh,"1,779,650","9,670",184
+17,JJ,Jhunjhunu,Jhunjhunu,"2,139,658","5,928",361
+18,JL,Jalore,Jalore,"1,830,151","10,640",172
+19,JO,Jodhpur,Jodhpur,"3,685,681","22,850",161
+20,JP,Jaipur,Jaipur,"6,663,971","11,152",598
+21,JS,Jaisalmer,Jaisalmer,"672,008","38,401",17
+22,JW,Jhalawar,Jhalawar,"1,411,327","6,219",227
+23,KA,Karauli,Karauli,"1,458,459","5,530",264
+24,KO,Kota,Kota,"1,950,491","5,446",374
+25,NA,Nagaur,Nagaur,"3,309,234","17,718",187
+26,PA,Pali,Pali,"2,038,533","12,387",165
+27,PG,Pratapgarh,Pratapgarh,"868,231","4,112",211
+28,RA,Rajsamand,Rajsamand,"1,158,283","3,853",302
+29,SK,Sikar,Sikar,"2,677,737","7,732",346
+30,SM,Sawai Madhopur,Sawai Madhopur,"1,338,114","4,500",257
+31,SR,Sirohi,Sirohi,"1,037,185","5,136",202
+32,TO,Tonk,Tonk,"1,421,711","7,194",198
+33,UD,Udaipur,Udaipur,"3,067,549","13,430",242
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,ES,East Sikkim,Gangtok,"281,293",954,295
+2,NS,North Sikkim,Mangan,"43,354","4,226",10
+3,SS,South Sikkim,Namchi,"146,742",750,196
+4,WS,West Sikkim,Geyzing,"136,299","1,166",117
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AY,Ariyalur,Ariyalur,"752,481","3,208",387
+2,CGL,Chengalpattu,Chengalpattu,"2,556,244","2,945",868
+3,CH,Chennai,Chennai,"7,100,000",426,"17,000"
+4,CO,Coimbatore,Coimbatore,"3,472,578","7,469",748
+5,CU,Cuddalore,Cuddalore,"2,600,880","3,999",702
+6,DH,Dharmapuri,Dharmapuri,"1,502,900","4,532",332
+7,DGL,Dindigul,Dindigul,"2,161,367","6,058",357
+8,ER,Erode,Erode,"2,259,608","5,714",397
+9,KL,Kallakurichi,Kallakurichi,"1,370,281","3,520",389
+10,KC,Kanchipuram,Kanchipuram,"1,166,401","1,656",704
+11,KK,Kanyakumari,Nagercoil,"1,863,178","1,685","1,106"
+12,KA,Karur,Karur,"1,076,588","2,901",371
+13,KR,Krishnagiri,Krishnagiri,"1,883,731","5,086",370
+14,MDU,Madurai,Madurai,"3,991,038","3,676",823
+15,–,Mayiladuthurai,Mayiladuthurai,"918,356","1,172",784
+16,NG,Nagapattinam,Nagapattinam,"1,614,069","2,716",668
+17,NI,Nilgiris,Ooty,"735,071","2,549",288
+18,NM,Namakkal,Namakkal,"1,721,179","3,429",506
+19,PE,Perambalur,Perambalur,"564,511","1,752",323
+20,PU,Pudukkottai,Pudukkottai,"1,918,725","4,651",348
+21,RA,Ramanathapuram,Ramanathapuram,"1,337,560","4,123",320
+22,RN,Ranipet,Ranipet,"1,210,277","2,234",524
+23,SA,Salem,Salem,"3,480,008","5,245",663
+24,SI,Sivaganga,Sivaganga,"1,341,250","4,086",324
+25,TS,Tenkasi,Tenkasi,"14,07,627",2916,483
+26,TP,Tirupur,Tirupur,"2,471,222","5,106",476
+27,TC,Tiruchirappalli,Tiruchirappalli,"2,713,858","4,407",602
+28,TH,Theni,Theni,"1,243,684","3,066",433
+29,TI,Tirunelveli,Tirunelveli,"1,665,253","3,842",433
+30,TJ,Thanjavur,Thanjavur,"2,402,781","3,397",691
+31,TK,Thoothukudi,Thoothukudi,"1,738,376","4,594",378
+32,TP,Tirupattur,Tirupattur,"1,111,812","1,792",620
+33,TL,Tiruvallur,Tiruvallur,"3,725,697","3,424","1,049"
+34,TR,Tiruvarur,Tiruvarur,"1,268,094","2,377",533
+35,TV,Tiruvannamalai,Tiruvannaamalai,"2,468,965","6,191",399
+36,VE,Vellore,Vellore,"1,614,242","2,080",776
+37,VL,Viluppuram,Viluppuram,"2,093,003","3,725",562
+38,VR,Virudhunagar,Virudhunagar,"1,943,309","3,446",454
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AD,Adilabad,Adilabad,"708,952","4,185.97",171
+2,–,Komaram Bheem,Asifabad,"515,835","4,300.16",106
+3,–,Bhadradri Kothagudem,Kothagudem,"1,304,811","8,951.00",143
+4,HY,Hyderabad,Hyderabad,"3,441,992","4,325.29","18,172"
+5,–,Jagtial,Jagtial,"983,414","3,043.23",407
+6,–,Jangaon,Jangaon,"582,457","2,187.50",259
+7,–,Jayashankar Bhupalpally,Bhupalpalle,"712,257","6,361.70",115
+8,–,Jogulamba Gadwal,Gadwal,"664,971","2,928.00",208
+9,–,Kamareddy,Kamareddy,"972,625","3,651.00",266
+10,KA,Karimnagar,Karimnagar,"1,016,063","2,379.07",473
+11,KH,Khammam,Khammam,"1,401,639","4,453.00",321
+12,–,Mahabubabad,Mahabubabad,"770,170","2,876.70",269
+13,MA,Mahbubnagar,Mahbubnagar,"1,318,110","4,037.00",281
+14,–,Mancherial,Mancherial,"807,037","4,056.36",201
+15,ME,Medak,Medak,"767,428","2,740.89",275
+16,–,Medchal-Malkajgiri,Shamirpet,"2,542,203","5,005.98","2,251"
+17,–,Mulugu,Mulugu,"2,94,671","3,881",124
+18,NA,Nalgonda,Nalgonda,"1,631,399","2,449.79",227
+19,–,Narayanpet,Narayanpet,"5,66,874",2336.44,243
+20,–,Nagarkurnool,Nagarkurnool,"893,308","6,545.00",124
+21,–,Nirmal,Nirmal,"709,415","3,562.51",185
+22,NI,Nizamabad,Nizamabad,"1,534,428","4,153.00",366
+23,–,Peddapalli,Peddapalle,"795,332","4,614.74",356
+24,–,Rajanna Sircilla,Sircilla,"546,121","2,030.89",273
+25,RA,Ranga Reddy,Shamshabad,"2,551,731","1,038.00",486
+26,–,Sangareddy,Sangareddy,"1,527,628","4,464.87",347
+27,–,Siddipet,Siddipet,"993,376","3,425.19",279
+28,–,Suryapet,Suryapet,"1,099,560","3,374.47",305
+29,–,Vikarabad,Vikarabad,"881,250","3,385.00",274
+30,–,Wanaparthy,Wanaparthy,"751,553","2,938.00",268
+31,WL,Warangal Urban,Warangal,"1,135,707","1,304.50",826
+32,–,Warangal Rural,Warangal,"716,457","2,175.50",330
+33,–,Yadadri Bhuvanagiri,Bhongiri,"726,465","3,091.48",239
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,DH,Dhalai,Ambassa,"377,988","2,400",157
+2,GM,Gomati,"Udaipur, Tripura","436,868",1522.8,287
+3,KH,Khowai[16],Khowai,"327,391",1005.67,326
+4,NT,North Tripura,Dharmanagar,"415,946",1444.5,288
+5,SP,Sepahijala[17],Bishramganj,"484,233",1044.78,463
+6,ST,South Tripura,Belonia,"433,737",1534.2,283
+7,UK,Unokoti[18],Kailashahar,"277,335",591.93,469
+8,WT,West Tripura,Agartala,"917,534",942.55,973
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AG,Agra,Agra,"4,380,793","4,027","1,084"
+2,AL,Aligarh,Aligarh,"3,673,849","3,747","1,007"
+3,AH,Allahabad,Allahabad,"5,959,798","5,481","1,087"
+4,AN,Ambedkar Nagar,Akbarpur,"2,398,709","2,372","1,021"
+5,AM,Amethi,Gauriganj,"2,549,935","3,063",830
+6,JP,Amroha,Amroha,"1,838,771","2,321",818
+7,AU,Auraiya,Auraiya,"1,372,287","2,051",681
+8,AZ,Azamgarh,Azamgarh,"4,616,509","4,053","1,139"
+9,BG,Bagpat,Baghpat,"1,302,156","1,345",986
+10,BH,Bahraich,Bahraich,"2,384,239","4,926",415
+11,BL,Ballia,Ballia,"3,223,642","2,981","1,081"
+12,BP,Balrampur,Balrampur,"2,149,066","3,349",642
+13,BN,Banda,Banda,"1,799,541","4,413",404
+14,BB,Barabanki,Barabanki,"3,257,983","3,825",739
+15,BR,Bareilly,Bareilly,"4,465,344","4,120","1,084"
+16,BS,Basti,Basti,"2,461,056","2,687",916
+17,BH,Bhadohi,Gyanpur,"1,554,203",960,"1,531"
+18,BI,Bijnor,Bijnor,"3,683,896","4,561",808
+19,BD,Budaun,Budaun,"3,712,738","5,168",718
+20,BU,Bulandshahr,Bulandshahr,"3,498,507","3,719",788
+21,CD,Chandauli,Chandauli,"1,952,713","2,554",768
+22,CT,Chitrakoot,Karwi,"990,626","3,202",315
+23,DE,Deoria,Deoria,"3,098,637","2,535","1,220"
+24,ET,Etah,Etah,"1,761,152","2,456",717
+25,EW,Etawah,Etawah,"1,579,160","2,287",683
+26,FZ,Faizabad,Faizabad,"2,468,371","2,765","1,054"
+27,FR,Farrukhabad,Fatehgarh,"1,887,577","2,279",865
+28,FT,Fatehpur,Fatehpur,"2,632,684","4,152",634
+29,FI,Firozabad,Firozabad,"2,496,761","2,361","1,044"
+30,GB,Gautam Buddh Nagar,Noida,"1,674,714","1,269","1,252"
+31,GZ,Ghaziabad,Ghaziabad,"4,661,452","1,175","3,967"
+32,GP,Ghazipur,Ghazipur,"3,622,727","3,377","1,072"
+33,GN,Gonda,Gonda,"3,431,386","4,425",857
+34,GR,Gorakhpur,Gorakhpur,"4,436,275","3,325","1,336"
+35,HM,Hamirpur,Hamirpur,"1,104,021","4,325",268
+36,PN,Hapur,Hapur,"1,338,211",660,"2,028"
+37,HR,Hardoi,Hardoi,"4,091,380","5,986",683
+38,HT,Hathras,Hathras,"1,565,678","1,752",851
+39,JL,Jalaun,Orai,"1,670,718","4,565",366
+40,JU,Jaunpur,Jaunpur,"4,476,072","4,038","1,108"
+41,JH,Jhansi,Jhansi,"2,000,755","5,024",398
+42,KJ,Kannauj,Kannauj,"1,658,005","1,993",792
+43,KD,Kanpur Dehat,Akbarpur,"1,795,092","3,021",594
+44,KN,Kanpur Nagar,Kanpur,"4,572,951","3,156","1,415"
+45,KR,Kasganj,Kasganj,"1,438,156","1,955",736
+46,KS,Kaushambi,Manjhanpur,"1,596,909","1,837",897
+47,KU,Kushinagar,Padrauna,"3,560,830","2,909","1,226"
+48,LK,Lakhimpur Kheri,Lakhimpur,"4,013,634","7,674",523
+49,LA,Lalitpur,Lalitpur,"1,218,002","5,039",242
+50,LU,Lucknow,Lucknow,"4,588,455","2,528","1,815"
+51,MG,Maharajganj,Maharajganj,"2,665,292","2,953",903
+52,MH,Mahoba,Mahoba,"876,055","2,847",288
+53,MP,Mainpuri,Mainpuri,"1,847,194","2,760",670
+54,MT,Mathura,Mathura,"2,541,894","3,333",761
+55,MB,Mau,Mau,"2,205,170","1,713","1,287"
+56,ME,Meerut,Meerut,"3,447,405","2,522","1,342"
+57,MI,Mirzapur,Mirzapur,"2,494,533","4,522",561
+58,MO,Moradabad,Moradabad,"4,773,138","3,718","1,284"
+59,MU,Muzaffarnagar,Muzaffarnagar,"4,138,605","4,008","1,033"
+60,PI,Pilibhit,Pilibhit,"2,037,225","3,499",567
+61,PR,Pratapgarh,Pratapgarh,"3,173,752","3,717",854
+62,RB,Raebareli,Raebareli,"3,404,004","4,609",739
+63,RA,Rampur,Rampur,"2,335,398","2,367",987
+64,SA,Saharanpur,Saharanpur,"3,464,228","3,689",939
+65,SM,Sambhal,Sambhal,"2,217,020",2453,890
+66,SK,Sant Kabir Nagar,Khalilabad,"1,714,300","1,442","1,014"
+67,SJ,Shahjahanpur,Shahjahanpur,"3,002,376","4,575",673
+68,SH,Shamli[19],Shamli,"1,274,815","1,063","1,200"
+69,SV,Shravasti,Shravasti,"1,114,615","1,948",572
+70,SN,Siddharthnagar,Naugarh,"2,553,526","2,751",882
+71,SI,Sitapur,Sitapur,"4,474,446","5,743",779
+72,SO,Sonbhadra,Robertsganj,"1,862,612","6,788",274
+73,SU,Sultanpur,Sultanpur,"3,790,922","4,436",855
+74,UN,Unnao,Unnao,"3,110,595","4,561",682
+75,VA,Varanasi,Varanasi,"3,682,194","1,535","2,399"
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AL,Almora,Almora,"621,927","3,090",198
+2,BA,Bageshwar,Bageshwar,"259,840","2,310",116
+3,CL,Chamoli,Gopeshwar,"391,114","7,692",49
+4,CP,Champawat,Champawat,"259,315","1,781",147
+5,DD,Dehradun,Dehradun,"1,698,560","3,088",550
+6,HA,Haridwar,Haridwar,"1,927,029","2,360",817
+7,NA,Nainital,Nainital,"955,128","3,853",225
+8,PG,Pauri Garhwal,Pauri,"686,527","5,438",129
+9,PI,Pithoragarh,Pithoragarh,"485,993","7,110",69
+10,RP,Rudraprayag,Rudraprayag,"236,857","1,896",119
+11,TG,Tehri Garhwal,New Tehri,"616,409","4,085",169
+12,US,Udham Singh Nagar,Rudrapur,"1,648,367","2,912",648
+13,UT,Uttarkashi,Uttarkashi,"329,686","7,951",41
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AD,Alipurduar,Alipurduar,"1,700,000","3,383",400
+2,BN,Bankura,Bankura,"3,596,292","6,882",523
+3,BR,Paschim Bardhaman,Asansol,"2,882,031","1,603","1,100"
+4,BR,Purba Bardhaman,Bardhaman,"4,835,532","5,433",890
+5,BI,Birbhum,Suri,"3,502,387","4,545",771
+6,KB,Cooch Behar,Cooch Behar,"2,822,780","3,387",833
+7,DD,Dakshin Dinajpur,Balurghat,"1,670,931","2,183",753
+8,DA,Darjeeling,Darjeeling,"1,842,034","3,149",585
+9,HG,Hooghly,Chinsurah,"5,520,389","3,149","1,753"
+10,HR,Howrah,Howrah,"4,841,638","1,467","3,300"
+11,JA,Jalpaiguri,Jalpaiguri,"3,869,675","6,227",621
+12,JH,Jhargram,Jhargram,"1,136,548","3,038",370
+13,KA,Kalimpong,Kalimpong,"251,642","1,054",239
+14,KO,Kolkata,Kolkata,"4,486,679",206.08,"24,252"
+15,MA,Maldah,English Bazar,"3,997,970","3,733","1,071"
+16,MSD,Murshidabad,Baharampur,"7,102,430","5,324","1,334"
+17,NA,Nadia,Krishnanagar,"5,168,488","3,927","1,316"
+18,PN,North 24 Parganas,Barasat,"10,082,852","4,094","2,463"
+19,PM,Paschim Medinipur,Midnapore,"5,094,238","9,345","1,076"
+20,PR,Purba Medinipur,Tamluk,"4,417,377","4,736",923
+21,PU,Purulia,Purulia,"2,927,965","6,259",468
+22,PS,South 24 Parganas,Alipore,"8,153,176","9,960",819
+23,UD,Uttar Dinajpur,Raiganj,"3,000,849","3,180",956
+
+#,Code[5],District[6],Headquarters,Population (2011)[20],Area (km²)[21],Density (/km²)[6][22]
+1,NI,Nicobar,Car Nicobar,"36,842","1,841",20
+2,NA,North and Middle Andaman,Mayabunder,"105,597","3,736",28
+3,SA,South Andaman,Port Blair,"238,142","2,672",89
+
+#,Code[5],District,Headquarters,Population (2011)[6][23],Area (km²)[24],Density (/km²)[6][25]
+1,CH,Chandigarh,Chandigarh,"1,055,450",114,"9,258"
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,DA,Daman,Daman,"191,173[26]",72[27],"2,651"
+2,DI,Diu,Diu,"52,074[28]",39[29],"2,058"
+3,DN,Dadra and Nagar Haveli,Silvassa,"343,709",491,700
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,AN,Anantnag,Anantnag,"1,070,144",2853,375
+2,BD,Badgam,Badgam,"735,753",1406,537
+3,BPR,Bandipora,Bandipore,"385,099","3,010",128
+4,BR,Baramulla,Baramulla,"1,015,503",3329,305
+5,DO,Doda,Doda,"409,576","2,625",79
+6,GB,Ganderbal,Ganderbal,"297,003",1979,"1,151"
+7,JA,Jammu,Jammu,"1,526,406","3,097",596
+8,KT,Kathua,Kathua,"615,711","2,651",232
+9,KW,Kishtwar,Kishtwar,"230,696","7,737",30
+10,KG,Kulgam,Kulgam,"422,786",457,925
+11,KU,Kupwara,Kupwara,"875,564","2,379",368
+12,PO,Poonch,Poonch,"476,820","1,674",285
+13,PU,Pulwama,Pulwama,"570,060","1,398",598
+14,RA,Rajouri,Rajouri,"619,266","2,630",235
+15,RB,Ramban,Ramban,"283,313","1,330",213
+16,RS,Reasi,Reasi,"314,714",1710,184
+17,SB,Samba,Samba,"318,611",913,318
+18,SH,Shopian,Shupiyan,"265,960",312,852
+19,SR,Srinagar,Srinagar,"1,269,751","2,228",703
+20,UD,Udhampur,Udhampur,"555,357","4,550",211
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,KR,Kargil,Kargil,"143,388","14,036",10
+2,LE,Leh,Leh,"147,104","45,110",3
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,LD,Lakshadweep,Kavaratti,"64,473[30]",30[31],"2,149[32]"
+
+#,Code[5],District[6],Headquarters,Population (2011)[33],Area (km²)[citation needed],Density (/km²)[6][34]
+1,CD,Central Delhi,Daryaganj,"582,320",25,"27,730"
+2,ED,East Delhi,Preet Vihar,"1,709,346",440,"27,132"
+3,ND,New Delhi,Connaught Place,"142,004",22,"4,057"
+4,NO,North Delhi,Sadar Bazaar,"887,978",59,"14,557"
+5,NE,North East Delhi,Seelampur,"2,241,624",52,"36,155"
+6,NW,North West Delhi,Kanjhawala,"3,656,539",130,"8,254"
+7,–,Shahdara,Shahdara,–,59.75,–
+8,SD,South Delhi,Saket,"2,731,929",250,"11,060"
+9,–,South East Delhi,Defence Colony,–,–,–
+10,SW,South West Delhi,Vasant Vihar,"2,292,958",395,"5,446"
+11,WD,West Delhi,Rajouri Garden,"2,543,243",112,"19,563"
+
+#,Code[5],District[6],Headquarters,Population (2011),Area (km²),Density (/km²)[6]
+1,KA,Karaikal,Karaikal,"200,222[35]",157[36],"1,275[37]"
+2,MA,Mahé,Mahé,"41,816[38]",9[39],"4,646[38]"
+3,PO,Puducherry,Pondicherry,"950,289[40]",293[41],"3,232[42]"
+4,YA,Yanam,Yanam,"55,626[43]",30[44],"1,854[43]"

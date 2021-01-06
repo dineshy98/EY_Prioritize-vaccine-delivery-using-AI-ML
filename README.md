@@ -1,6 +1,7 @@
 # EY_Prioritize-vaccine-delivery-using-AI-ML
 
-[Tableau Dashboard Link](https://prod-apnortheast-a.online.tableau.com/t/dineshydinesh86/views/VaccinePrioritization/VaccinePrioritization?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+For Dashboard Please Visit my Tableau Profile
+[Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/)
 
 datasets folder - Contains All data used in this Study
 

@@ -7,9 +7,9 @@ For Dashboard Please Visit my Tableau Profile
 
 
 <br/>datasets folder - Contains All data used in this Study<br/>
-notebooks - contains Jupyter notebooks and py scripts
-results - contain the completely preprocessed finalize datasets
-dashboard.html - contains tableau dashboard 
+<br/>notebooks - contains Jupyter notebooks and py scripts<br/>
+<br/>results - contain the completely preprocessed finalize datasets<br/>
+<br/>dashboard.html - contains tableau dashboard <br/>
 
 
 

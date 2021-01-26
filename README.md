@@ -1,6 +1,6 @@
 # EY_Prioritize-vaccine-delivery-using-AI-ML #
 
-### Dashboard : [Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/)
+### Dashboard : [Tableau Public Dashboard Link](https://public.tableau.com/profile/dinesh3497#!/vizhome/VaccinePrioritizationEYTechathon/Story1)
 
 
 datasets folder - Contains All data used in this Study<br/>
